@@ -8,6 +8,7 @@ import {
   Product,
   ProductCardHandlers,
 } from '../interfaces/interfaces';
+
 import styles from '../styles/styles.module.css';
 
 export const ProductContext = createContext({} as ProductContextProps);
